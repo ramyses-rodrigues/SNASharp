@@ -1,0 +1,8 @@
+C:\Users\ramyses.rmr\OneDrive\Documentos\Eletrônica e Diversos\Analisador de Espectro\Git_Clone\SNASharp\NWTInterface\bin\Debug\NWTInterface.dll
+C:\Users\ramyses.rmr\OneDrive\Documentos\Eletrônica e Diversos\Analisador de Espectro\Git_Clone\SNASharp\NWTInterface\bin\Debug\NWTInterface.pdb
+C:\Users\ramyses.rmr\OneDrive\Documentos\Eletrônica e Diversos\Analisador de Espectro\Git_Clone\SNASharp\NWTInterface\bin\Debug\NWTInterface.dll.CodeAnalysisLog.xml
+C:\Users\ramyses.rmr\OneDrive\Documentos\Eletrônica e Diversos\Analisador de Espectro\Git_Clone\SNASharp\NWTInterface\bin\Debug\NWTInterface.dll.lastcodeanalysissucceeded
+C:\Users\ramyses.rmr\OneDrive\Documentos\Eletrônica e Diversos\Analisador de Espectro\Git_Clone\SNASharp\NWTInterface\obj\Debug\NWTInterface.csproj.AssemblyReference.cache
+C:\Users\ramyses.rmr\OneDrive\Documentos\Eletrônica e Diversos\Analisador de Espectro\Git_Clone\SNASharp\NWTInterface\obj\Debug\NWTInterface.csproj.CoreCompileInputs.cache
+C:\Users\ramyses.rmr\OneDrive\Documentos\Eletrônica e Diversos\Analisador de Espectro\Git_Clone\SNASharp\NWTInterface\obj\Debug\NWTInterface.dll
+C:\Users\ramyses.rmr\OneDrive\Documentos\Eletrônica e Diversos\Analisador de Espectro\Git_Clone\SNASharp\NWTInterface\obj\Debug\NWTInterface.pdb

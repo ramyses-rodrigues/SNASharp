@@ -6,6 +6,8 @@ using System.IO;
 using System.Threading;
 using System.Xml.Serialization;
 using System.ComponentModel;
+using System.Reflection;
+using System.Security.Policy;
 
 
 namespace AnalyzerInterface
@@ -644,7 +646,37 @@ namespace AnalyzerInterface
                 cDelay.CopyTo(OutMessage, 2 + 9 + 8 + 4);
             }
 
+            //System.Diagnostics.Stopwatch sw = new System.Diagnostics.Stopwatch();
+            //sw.Start();
             port.Write(OutMessage, 0, OutMessage.Length);
+
+            //*********************************************************
+            
+            //int bsize = nCount * sizeof(float);
+            //int bIndex = 0; // reseta bIndex
+            ////int bRead = 0; // reset bRead
+            //byte[] buffer = new byte[bsize]; // buffer para guarda dos dados do payload
+            
+            //while (bIndex < bsize)
+            //{
+            //    if (port.BytesToRead > 0) bIndex += port.BaseStream.Read(buffer, bIndex, bsize - bIndex);
+            //    //bIndex += bRead;
+            //}
+
+            //NativeDatas = new short[nCount];
+            //for (int i = 0; i < nCount; i++)
+            //{
+            //    NativeDatas[i] = BitConverter.ToInt16(buffer, 2*i);
+            //}
+            ////int nMesure = (nHighByte << 8) + nLowByte;
+
+
+            //sw.Stop();
+            //long time1 = sw.ElapsedMilliseconds;
+            //sw.Restart();
+            
+            //***********************************************************
+
 
             // new we can read all mesurements 
             int nLowByte = 0;
@@ -739,7 +771,17 @@ namespace AnalyzerInterface
 
             }
 
-            return DataOut;
+
+            //************************************
+            //sw.Stop();
+            //long time2 = sw.ElapsedMilliseconds;
+            //Console.WriteLine("Tempo decorrido: {0} milisegundos, {1} milisegundos", time1, time2);
+            //************************************
+            
+             
+            
+            return DataOut;           
+            
         }
 
 

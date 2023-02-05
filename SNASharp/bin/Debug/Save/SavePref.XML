@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SavePref xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AttCal>true</AttCal>
+  <DisplayDisclaimer>true</DisplayDisclaimer>
+  <RawCapture>false</RawCapture>
+  <SerialPortAutodetectAtLaunch>false</SerialPortAutodetectAtLaunch>
+  <LastUsedDevice>Geekcreit®_LTDZ_35-4400M</LastUsedDevice>
+  <LastUsedCOMPort>COM44</LastUsedCOMPort>
+  <LastUsedAttLevel>_0dB</LastUsedAttLevel>
+  <Output>dB</Output>
+  <LowFrequency>997689306</LowFrequency>
+  <HighFrequency>1002419306</HighFrequency>
+  <SampleCount>2000</SampleCount>
+  <Filter>OFF</Filter>
+  <LastVFOFrequency>50000000</LastVFOFrequency>
+</SavePref>
